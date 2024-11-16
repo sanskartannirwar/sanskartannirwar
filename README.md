@@ -1,3 +1,4 @@
+![logo](https://github.com/sanskartannirwar/sanskartannirwar/blob/main/Sanskar%20Tannirwar%20GitHub%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sanskar Tannirwar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
